@@ -13,8 +13,8 @@
 🎓 I'm currently pursuing B.Tech in Computer Science and Engineering at SRM IST.  
 🌱 I'm currently learning Machine Learning, Deep Learning, NLP, and Generative AI.  
 💬 Reach out to me for collaboration, projects, or interesting technical discussions.  
-⚡ I enjoy turning ideas into practical and scalable software solutions.  
-✉️ You can reach me through LinkedIn or email.
+⚡ I enjoy doing poetry :)  
+✉️ You can reach me through LinkedIn or email: khajuriaanika736@gmail.com
 
 ---
 
