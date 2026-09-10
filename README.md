@@ -1,68 +1,38 @@
-<h1 align="center">Hi! 👋 I'm Anika</h1>
+<div align="center">
 
-<p align="center">
-  <b>Computer Science Engineering Student</b>
-</p>
+# Hi 👋, I'm Anika
 
----
+### Computer Science Engineering Student • AI/ML • Software Development
 
-💡 Always curious about learning new technologies and solving problems.  
-🎓 Currently pursuing Computer Science Engineering.  
-🌱 Currently learning AI/ML, Data Science, and DSA.  
-💻 Interested in building practical and impactful projects.  
-🤝 Open to collaboration, volunteering, and interesting discussions.
+</div>
 
 ---
 
-<p align="center">
-  <img src="YOUR_GIF_URL_HERE" width="500">
-</p>
+### 💡 A little about me
+
+🎓 B.Tech Computer Science & Engineering student at SRM Institute of Science and Technology.  
+🤖 Interested in Artificial Intelligence, Machine Learning, and Generative AI.  
+🧩 I enjoy turning complex problems into practical software solutions.  
+🌱 Currently strengthening my skills in DSA, Machine Learning, and backend development.  
+🚀 Building projects that combine AI with real-world engineering problems.  
+🤝 Always open to interesting projects, collaborations, and technical conversations.
 
 ---
 
-# 💻 Tech Stack
+<div align="center">
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,mysql,html,css,js,git,github,react" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Building+%7C+Learning+%7C+Experimenting;AI%2FML+%7C+Backend+%7C+Cloud;Turning+ideas+into+working+systems+%F0%9F%9A%80" alt="Typing SVG" />
 
----
-
-# 🤖 AI / ML
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
-</p>
-
-Pandas • NumPy • Scikit-learn • Matplotlib • Seaborn
+</div>
 
 ---
 
-# 🚀 Featured Projects
+## 🧠 What I'm Exploring
 
-### 🛡️ CyberPulse
-AI/ML-based cyberattack risk propagation using graph analysis.
-
-### 🌡️ Urban Heat Prediction
-Machine learning project using satellite and geospatial data to analyze urban heat patterns.
-
-### 💰 Financial Reconciliation Copilot
-AI-powered financial analysis using RAG and financial filings.
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anikaa1&show_icons=true&theme=dark" />
-</p>
-
----
-
-# 🌐 Connect With Me
-
-<p align="left">
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</p>
+```text
+Artificial Intelligence     ████████████████████
+Machine Learning            ██████████████████
+Backend Development         ████████████████
+Data Structures & Algorithms██████████████
+Cloud & Distributed Systems ████████████
+Generative AI / RAG         ███████████████
