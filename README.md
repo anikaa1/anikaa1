@@ -71,13 +71,6 @@ AI/ML system for analyzing cyberattack risk propagation across interconnected ne
 
 ---
 
-# 🏆 Achievements
-
-🏆 Selected among the Top 80 participants for Citi Bridge Program 2026.  
-🏆 Getting Started with Deep Learning — NVIDIA.  
-🏆 Introduction to Machine Learning — NPTEL, IIT Kharagpur.
-
----
 
 # 🌱 Currently Learning
 
