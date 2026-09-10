@@ -1,38 +1,120 @@
 <div align="center">
 
-# Hi 👋, I'm Anika
+# Hi! I'm Anika 👋
 
-### Computer Science Engineering Student • AI/ML • Software Development
+### Computer Science Engineering Student | AI/ML | Software Development
 
 </div>
 
 ---
 
-### 💡 A little about me
-
-🎓 B.Tech Computer Science & Engineering student at SRM Institute of Science and Technology.  
-🤖 Interested in Artificial Intelligence, Machine Learning, and Generative AI.  
-🧩 I enjoy turning complex problems into practical software solutions.  
-🌱 Currently strengthening my skills in DSA, Machine Learning, and backend development.  
-🚀 Building projects that combine AI with real-world engineering problems.  
-🤝 Always open to interesting projects, collaborations, and technical conversations.
+💡 Always curious about learning new technologies and solving real-world problems.  
+🔨 I'm currently working on AI/ML projects, DSA, and backend development.  
+🎓 I'm currently pursuing B.Tech in Computer Science and Engineering at SRM IST.  
+🌱 I'm currently learning Machine Learning, Deep Learning, NLP, and Generative AI.  
+💬 Reach out to me for collaboration, projects, or interesting technical discussions.  
+⚡ I enjoy turning ideas into practical and scalable software solutions.  
+✉️ You can reach me through LinkedIn or email.
 
 ---
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Building+%7C+Learning+%7C+Experimenting;AI%2FML+%7C+Backend+%7C+Cloud;Turning+ideas+into+working+systems+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="YOUR_GIF_URL_HERE" width="520">
 
 </div>
 
 ---
 
-## 🧠 What I'm Exploring
+# 💻 Tech Stack
 
-```text
-Artificial Intelligence     ████████████████████
-Machine Learning            ██████████████████
-Backend Development         ████████████████
-Data Structures & Algorithms██████████████
-Cloud & Distributed Systems ████████████
-Generative AI / RAG         ███████████████
+### Languages & Frameworks
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,cpp,java,mysql,html,css,js,react,nodejs,fastapi,flask" />
+</p>
+
+### AI / ML
+
+`PyTorch` • `TensorFlow` • `Scikit-learn` • `Pandas` • `NumPy`  
+`LlamaIndex` • `RAG` • `Computer Vision` • `NLP`
+
+### Tools & Technologies
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws,firebase,postgresql" />
+</p>
+
+`GitHub Actions` • `REST APIs` • `CI/CD` • `Google Cloud`
+
+---
+
+# 🚀 Projects
+
+### 🌍 EcoVision AI
+
+AI-powered geospatial intelligence platform for urban growth, vegetation analysis, and environmental risk assessment.
+
+**Tech:** React.js • Node.js • PyTorch • FastAPI • Google Earth Engine • LSTM
+
+### 🔐 BlockID
+
+Decentralized identity verification platform using Ethereum smart contracts and IPFS.
+
+**Tech:** React.js • Node.js • PostgreSQL • Solidity • Ethereum • IPFS • Web3.js
+
+### 🛡️ CyberPulse
+
+AI/ML system for analyzing cyberattack risk propagation across interconnected networks.
+
+**Tech:** Python • Machine Learning • Network Analysis
+
+---
+
+# 🏆 Achievements
+
+🏆 Selected among the Top 80 participants for Citi Bridge Program 2026.  
+🏆 Getting Started with Deep Learning — NVIDIA.  
+🏆 Introduction to Machine Learning — NPTEL, IIT Kharagpur.
+
+---
+
+# 🌱 Currently Learning
+
+DSA • Machine Learning • Deep Learning • NLP • Generative AI • Cloud Computing
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=anikaa1&show_icons=true&theme=dark&hide_border=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anikaa1&layout=compact&theme=dark&hide_border=true"/>
+
+</div>
+
+---
+
+# 🌐 Find me around the web
+
+<p align="left">
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LINKEDIN-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:ak5214@srmist.edu.in">
+<img src="https://img.shields.io/badge/EMAIL-Contact-red?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+⚡ Learn • Build • Improve ⚡
+
+</div>
