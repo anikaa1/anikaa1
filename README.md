@@ -49,27 +49,6 @@
 
 ---
 
-# 💡 Projects
-
-###  EcoVision AI
-
-AI-powered geospatial intelligence platform for urban growth, vegetation analysis, and environmental risk assessment.
-
-**Tech:** React.js • Node.js • PyTorch • FastAPI • Google Earth Engine • LSTM
-
-###  BlockID
-
-Decentralized identity verification platform using Ethereum smart contracts and IPFS.
-
-**Tech:** React.js • Node.js • PostgreSQL • Solidity • Ethereum • IPFS • Web3.js
-
-###  CyberPulse
-
-AI/ML system for analyzing cyberattack risk propagation across interconnected networks.
-
-**Tech:** Python • Machine Learning • Network Analysis
-
-
 
 ---
 
