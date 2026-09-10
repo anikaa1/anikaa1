@@ -64,21 +64,6 @@
 
 ---
 
-# 🌐 Find me around the web
-
-<p align="left">
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LINKEDIN-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="mailto:ak5214@srmist.edu.in">
-<img src="https://img.shields.io/badge/EMAIL-Contact-red?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-</p>
-
----
 
 <div align="center">
 
