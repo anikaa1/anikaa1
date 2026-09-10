@@ -1,66 +1,68 @@
+<h1 align="center">Hi! 👋 I'm Anika</h1>
 
-<div align="center">
+<p align="center">
+  <b>Computer Science Engineering Student</b>
+</p>
 
-<a href="https://git.io/typing-svg#light">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&pause=1000&color=FFFFFF&center=true&width=535&lines=Hi+%F0%9F%91%8B%2C+I'm+Anika!">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&pause=1000&color=FFFFFF&center=true&width=535&lines=Hi+%F0%9F%91%8B%2C+I'm+Anika!" alt="Typing SVG" />
-  </picture>
-</a>
+---
 
-</div>
+💡 Always curious about learning new technologies and solving problems.  
+🎓 Currently pursuing Computer Science Engineering.  
+🌱 Currently learning AI/ML, Data Science, and DSA.  
+💻 Interested in building practical and impactful projects.  
+🤝 Open to collaboration, volunteering, and interesting discussions.
 
+---
 
-<h3 align="center">A passionate Full-Stack Developer and Life-Long Learner based in India</h3>
+<p align="center">
+  <img src="YOUR_GIF_URL_HERE" width="500">
+</p>
 
-<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-<br>
-![Profile Views](https://komarev.com/ghpvc/?username=Rajdeep2820&color=blue)
--  Student at SRM Institute of Science and Technology
-- I'm currently learning DSA
-- Passionate about Web Development
-<br>
+---
 
-## 🛠 Skills
+# 💻 Tech Stack
 
-<div align="left" dir="auto">
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/34a110ef06e3aeed9a1de60ce8099b45eedc5580e1f49cc490c1b28c896b264e/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f632f632d6f726967696e616c2e737667"><img src="https://camo.githubusercontent.com/34a110ef06e3aeed9a1de60ce8099b45eedc5580e1f49cc490c1b28c896b264e/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f632f632d6f726967696e616c2e737667" height="40" alt="c logo" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="max-width: 100%;"></a>
-  <a target="_blank" rel="noopener noreferrer" href=""><img width="12" style="max-width: 100%;"></a>
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/cd7e24b6d077658f419aaa173b20cde5cadb5fe3ed659fb0848b95e4037a46b1/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f63706c7573706c75732f63706c7573706c75732d6f726967696e616c2e737667"><img src="https://camo.githubusercontent.com/cd7e24b6d077658f419aaa173b20cde5cadb5fe3ed659fb0848b95e4037a46b1/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f63706c7573706c75732f63706c7573706c75732d6f726967696e616c2e737667" height="40" alt="cplusplus logo" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="max-width: 100%;"></a>
-  <a target="_blank" rel="noopener noreferrer" href=""><img width="12" style="max-width: 100%;"></a>
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d1652ce9d9e41d898ea03bd8772e8accb903947dc6bba2a410d76462f7d63d1b/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f707974686f6e2f707974686f6e2d6f726967696e616c2e737667"><img src="https://camo.githubusercontent.com/d1652ce9d9e41d898ea03bd8772e8accb903947dc6bba2a410d76462f7d63d1b/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f707974686f6e2f707974686f6e2d6f726967696e616c2e737667" height="40" alt="python logo" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="max-width: 100%;"></a>
-  <a target="_blank" rel="noopener noreferrer" href=""><img width="12" style="max-width: 100%;"></a>
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/6647554cf19482c32acc6a6a3b8bd68b845fafabd474595e7e92dead3075c3ea/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f68746d6c352f68746d6c352d6f726967696e616c2e737667"><img src="https://camo.githubusercontent.com/6647554cf19482c32acc6a6a3b8bd68b845fafabd474595e7e92dead3075c3ea/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f68746d6c352f68746d6c352d6f726967696e616c2e737667" height="40" alt="html5 logo" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="max-width: 100%;"></a>
-  <a target="_blank" rel="noopener noreferrer" href=""><img width="12" style="max-width: 100%;"></a>
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/4eaf7f26830ffa4bc4c4502a24e9be29fa2796208648a805e8f610da811aeb05/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f637373332f637373332d6f726967696e616c2e737667"><img src="https://camo.githubusercontent.com/4eaf7f26830ffa4bc4c4502a24e9be29fa2796208648a805e8f610da811aeb05/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f637373332f637373332d6f726967696e616c2e737667" height="40" alt="css3 logo" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="max-width: 100%;"></a>
-  <a target="_blank" rel="noopener noreferrer" href=""><img width="12" style="max-width: 100%;"></a>
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/426c1121b29abc64a6b1af1e3aa3091abb38e39c87054720b765af1425c74e7f/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176617363726970742f6a6176617363726970742d6f726967696e616c2e737667"><img src="https://camo.githubusercontent.com/426c1121b29abc64a6b1af1e3aa3091abb38e39c87054720b765af1425c74e7f/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176617363726970742f6a6176617363726970742d6f726967696e616c2e737667" height="40" alt="javascript logo" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="max-width: 100%;"></a>
-  <a target="_blank" rel="noopener noreferrer" href=""><img width="12" style="max-width: 100%;"></a>
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/0d4b500c99671bf83bcb747e4f25f3da28765f2bbb4cdd9733c09f9a46381aaa/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176612f6a6176612d6f726967696e616c2e737667"><img src="https://camo.githubusercontent.com/0d4b500c99671bf83bcb747e4f25f3da28765f2bbb4cdd9733c09f9a46381aaa/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176612f6a6176612d6f726967696e616c2e737667" height="40" alt="java logo" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="max-width: 100%;"></a>
-  <a target="_blank" rel="noopener noreferrer" href=""><img width="12" style="max-width: 100%;"></a>
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" height="40" alt="mongodb" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="max-width: 100%;"></a>
-  <a target="_blank" rel="noopener noreferrer" href=""><img width="12" style="max-width: 100%;"></a>
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="40" alt="react" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="max-width: 100%;"></a>
-  <a target="_blank" rel="noopener noreferrer" href=""><img width="12" style="max-width: 100%;"></a>
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="nodejs" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="max-width: 100%;"></a>
-  <a target="_blank" rel="noopener noreferrer" href=""><img width="12" style="max-width: 100%;"></a>
-  <a target="_blank" rel="noopener noreferrer" href=""><img width="12" style="max-width: 100%;"></a>
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://expressjs.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" height="40" alt="express" data-canonical-src="" style="max-width: 100%;"></a>
-</div>
-</div>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,mysql,html,css,js,git,github,react" />
+</p>
 
-<br>
+---
 
-## 🌐 Find me around the web 🌍
+# 🤖 AI / ML
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anikakhajuria)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/anikakhajuriaa/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khajuriaanika736@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
+</p>
 
- <br>
- 
-## 📈 GitHub Stats
+Pandas • NumPy • Scikit-learn • Matplotlib • Seaborn
 
-  <img src="https://github-readme-stats.vercel.app/api?username=anikaa1&show_icons=true&theme=radical" alt="GitHub Stats" /><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anikaa1&layout=compact&theme=radical" alt="Top Languages" />
+---
+
+# 🚀 Featured Projects
+
+### 🛡️ CyberPulse
+AI/ML-based cyberattack risk propagation using graph analysis.
+
+### 🌡️ Urban Heat Prediction
+Machine learning project using satellite and geospatial data to analyze urban heat patterns.
+
+### 💰 Financial Reconciliation Copilot
+AI-powered financial analysis using RAG and financial filings.
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anikaa1&show_icons=true&theme=dark" />
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
