@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi! I'm Anika 👋
+# Hi! I'm Anika 
 
 ### Computer Science Engineering Student | AI/ML | Software Development
 
@@ -8,13 +8,13 @@
 
 ---
 
-💡 Always curious about learning new technologies and solving real-world problems.  
+💡 Always curious about learning new technologies and solving real world problems.  
 🔨 I'm currently working on AI/ML projects, DSA, and backend development.  
 🎓 I'm currently pursuing B.Tech in Computer Science and Engineering at SRM IST.  
 🌱 I'm currently learning Machine Learning, Deep Learning, NLP, and Generative AI.  
 💬 Reach out to me for collaboration, projects, or interesting technical discussions.  
 ⚡ I enjoy doing poetry :)  
-✉️ You can reach me through LinkedIn or email: khajuriaanika736@gmail.com
+✉️ You can shoot me an email at khajuriaanika736@gmail.com. I'll try to respond as soon as I can. 
 
 ---
 
@@ -49,32 +49,27 @@
 
 ---
 
-# 🚀 Projects
+# 💡 Projects
 
-### 🌍 EcoVision AI
+###  EcoVision AI
 
 AI-powered geospatial intelligence platform for urban growth, vegetation analysis, and environmental risk assessment.
 
 **Tech:** React.js • Node.js • PyTorch • FastAPI • Google Earth Engine • LSTM
 
-### 🔐 BlockID
+###  BlockID
 
 Decentralized identity verification platform using Ethereum smart contracts and IPFS.
 
 **Tech:** React.js • Node.js • PostgreSQL • Solidity • Ethereum • IPFS • Web3.js
 
-### 🛡️ CyberPulse
+###  CyberPulse
 
 AI/ML system for analyzing cyberattack risk propagation across interconnected networks.
 
 **Tech:** Python • Machine Learning • Network Analysis
 
----
 
-
-# 🌱 Currently Learning
-
-DSA • Machine Learning • Deep Learning • NLP • Generative AI • Cloud Computing
 
 ---
 
