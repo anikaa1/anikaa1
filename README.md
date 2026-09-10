@@ -50,21 +50,6 @@
 ---
 
 
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=anikaa1&show_icons=true&theme=dark&hide_border=true"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anikaa1&layout=compact&theme=dark&hide_border=true"/>
-
-</div>
-
----
-
-
 <div align="center">
 
 ⚡ Learn • Build • Improve ⚡
